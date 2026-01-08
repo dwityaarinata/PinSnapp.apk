@@ -1,12 +1,12 @@
 # PinSnap - Location Photo Saver Application
 
-PinSnap adalah aplikasi Android berbasis kamera dan geolokasi yang memungkinkan pengguna menyimpan lokasi-lokasi menarik yang mereka temui secara langsung.
+PinSnap mmerupakan aplikasi Android berbasis kamera dan geolokasi yang memungkinkan pengguna menyimpan lokasi-lokasi menarik yang mereka temui secara langsung.
 
 ## Deskripsi Aplikasi
 
-Aplikasi ini menggabungkan pengambilan foto dengan pencatatan koordinat GPS secara otomatis, sehingga setiap lokasi yang disimpan memiliki data tempat yang akurat dan autentik.
+  Aplikasi ini menggabungkan pengambilan foto dengan pencatatan koordinat GPS secara otomatis, sehingga setiap lokasi yang disimpan memiliki data tempat yang akurat dan autentik.
 
-Pengguna dapat mengambil foto di lokasi tertentu, menambahkan nama tempat, lalu menyimpan lokasi tersebut untuk dibuka kembali kapan saja melalui Google Maps.
+  Pengguna dapat mengambil foto di lokasi tertentu, menambahkan nama tempat, lalu menyimpan lokasi tersebut untuk dibuka kembali kapan saja melalui Google Maps.
 
 ## Cara Kerja PinSnap
 
@@ -16,13 +16,13 @@ Pengguna dapat mengambil foto di lokasi tertentu, menambahkan nama tempat, lalu 
 4. **Lokasi disimpan ke dalam menu Saved**
 5. **Pengguna dapat membuka kembali lokasi** tersebut melalui Google Maps menggunakan tombol Open
 
-### Catatan Penting
+### Catatan
 
 Lokasi hanya dapat disimpan jika pengguna berada langsung di tempat tersebut, sehingga data lokasi bersifat valid dan sesuai kondisi nyata.
 
 ---
 
-## Screenshot,
+## Hasil Dokumentasi
 
 <div>
   <img src="asset/1.jpeg" width="150" style="margin-right:10px;" />
@@ -78,6 +78,11 @@ PinSnap dibuat untuk membantu pengguna:
 - Mengingat lokasi-lokasi menarik yang pernah dikunjungi
 - Mencatat perjalanan secara visual dan berbasis lokasi
 - Menyimpan referensi tempat tanpa harus menghafal alamat
+
+## UML (Unified Modelling Language)
+<div>
+  <img src="asset/use_case_diagram.jpeg" width="350"  />
+</div>
 
 ## Struktur Aplikasi
 
