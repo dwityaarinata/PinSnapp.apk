@@ -31,7 +31,6 @@ Lokasi hanya dapat disimpan jika pengguna berada langsung di tempat tersebut, se
   <img src="asset/4.jpeg" width="150" />
   <img src="asset/5.jpeg" width="150" />
   <img src="asset/6.jpeg" width="150" />
-  <img src="asset/7.jpeg" width="150" />
 </div>
 
 ---
