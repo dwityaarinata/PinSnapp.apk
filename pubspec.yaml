@@ -80,3 +80,13 @@ flutter:
   #
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/to/font-from-package
+  flutter:
+  uses-material-design: true
+
+  assets:
+    - asset/1.jpeg
+    - asset/2.jpeg
+    - asset/3.jpeg
+    - asset/4.jpeg
+    - asset/5.jpeg
+    - asset/6.jpeg

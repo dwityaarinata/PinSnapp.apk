@@ -20,6 +20,23 @@ Pengguna dapat mengambil foto di lokasi tertentu, menambahkan nama tempat, lalu 
 
 Lokasi hanya dapat disimpan jika pengguna berada langsung di tempat tersebut, sehingga data lokasi bersifat valid dan sesuai kondisi nyata.
 
+---
+
+## Screenshot,
+
+<div>
+  <img src="asset/1.jpeg" width="150" style="margin-right:10px;" />
+  <img src="asset/2.jpeg" width="150" style="margin-right:10px;" />
+  <img src="asset/3.jpeg" width="150" style="margin-right:10px;" />
+  <img src="asset/4.jpeg" width="150" />
+  <img src="asset/5.jpeg" width="150" />
+  <img src="asset/6.jpeg" width="150" />
+</div>
+
+---
+
+## link figma https://www.figma.com/design/lmRTXdcEUue2ywIOGUZGQS/-UAS-PM--PinSnap?node-id=0-1&t=L7dePbesdjsN8ShA-1
+
 ## Fitur Utama
 
 ### 1. Ambil Foto Lokasi
